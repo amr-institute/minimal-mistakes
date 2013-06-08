@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+title: Welcome
+tagline: invent the future
+tags: [welcome, reprap]
 image:
   feature: texture-feature-02.jpg
 ---
