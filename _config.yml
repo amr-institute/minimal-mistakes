@@ -1,13 +1,13 @@
-title:            Advanced Manufacturing Research Institute (AMRI)
-tagline:          invent the future
-description:      A responsive Jekyll theme with editorial design tendencies.
+title:            AMR Institute
+tagline:          Uniting scientific research and advanced manufacturing
+description:      We bring together mentors, fellows, and sponsors to drive the development of .
 #Comment out url when working locally to resolve base urls correctly
 url:              http://amr-institute.github.io/amri
 
 # Owner/author information
 owner:
   name:           Jordan Miller
-  avatar:         bio-photo.jpg
+  avatar:         jmil-photo.jpg
   bio:            "Uniting scientific research and advanced manufacturing."
   email:          amri@rice.edu
   twitter:        "amr-institute"
